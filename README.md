@@ -10,3 +10,5 @@
 - 🎆 I’m currently collaborating on IoT project (laundry stop notification system) with my son
 - ⚡ Fun fact: practicing Yoga and looking forward to going back Kumdo/Kendo practice
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&theme=dark" />
+
