@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cloud Data Warehouse project - architecting Application Telemetry Analytics, Azure Machine Learning at WorkSafeBC
-- 💻 I’m currently doing a side project on Smart Expense - Hapi (Nodejs), Flask, Plaid API, wit.ai API, Postgres, MongoDB, AWS RDS, gRPC, Azure EventHub, Heroku
+- 💻 I’m currently doing a side project on Smart Expense - Hapi (Nodejs), Flask, Python/Pandas, Plaid API, wit.ai API, gRPC, Postgres, MongoDB, AWS RDS, Azure EventHub, Heroku
 - 🌱 I’m currently learning on Event Driven Arehitecture, Spanish (Duolingo)
 - 📻 I’m currently listening Thinking, Fast and Slow by Daniel Kahneman
 - 📝 I’m currently teaching on HTML, Python/Flask
