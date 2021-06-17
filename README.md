@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🔑 Keyword for this week is: **Zettelkasten**
-- 🔭 I’m currently working on Cloud Data Warehouse project - architecting Application telemetry (AppInsights) Analytics, Azure Machine Learning at WorkSafeBC
+- 🔭 I’m currently working on Cloud Data Warehouse project - architecting Application telemetry (AppInsights) Analytics, Azure Machine Learning at **WorkSafeBC**
 - 💻 I’m currently doing a side project on **Smart Expense** (private repo) - Hapi (Nodejs), Flask, Python/Pandas, Plaid API, wit.ai API, gRPC, Postgres, MongoDB, AWS RDS, Azure EventHub, Heroku
 - 🌱 I’m currently learning on Event Driven Arehitecture, Spanish (Duolingo)
 - 📻 I’m currently listening **Thinking, Fast and Slow** by Daniel Kahneman
