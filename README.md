@@ -23,5 +23,7 @@
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgresDB-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
