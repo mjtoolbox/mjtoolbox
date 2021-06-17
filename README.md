@@ -14,4 +14,4 @@
 
 ## Technlogy & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logoColor=white&color=2bbc8a)
