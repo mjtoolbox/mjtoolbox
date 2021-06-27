@@ -1,7 +1,7 @@
 [![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg4.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this week is: **Zettelkasten**
+- 🔑 Keyword for this week is: **ITEM_LOGIN_REQUIRED**
 - 🔭 I’m currently working on Cloud Data Warehouse project - architecting Application telemetry (AppInsights) Analytics, Azure Machine Learning at **WorkSafeBC**
 - 💻 I’m currently doing a side project on **Smart Expense V2** (private repo) - Hapi (Nodejs), Flask, Python/Pandas, Plaid API, wit.ai API, gRPC, Postgres, MongoDB, AWS RDS, Azure EventHub, Heroku
 - 🌱 I’m currently learning on Event Driven Architecture, Spanish (Duolingo)
