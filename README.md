@@ -1,4 +1,4 @@
-[![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg4.png "Header")](https://mjtoolbox.wordpress.com/)
+[![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
 - 🔑 Keyword for this week is: O Canada
