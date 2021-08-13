@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🔑 Keyword for this week is: Red Dead Redemption 2
 - 🔭 I’m currently working on Cloud Data Warehouse project - architecting Application telemetry (AppInsights) Analytics, Azure Machine Learning and Cloud Migration 2.0 program at **WorkSafeBC**
-- 💻 I’m currently doing a side project on **Smart Expense V2** (private repo) - Hapi (Nodejs), Flask, FastAPI, Python/Pandas, Plaid API, wit.ai API, gRPC, Postgres, MongoDB, AWS RDS, Azure EventHub, Heroku
+- 💻 I’m currently doing a side project on **Smart Expense V2** (private repo) - Hapi (Nodejs), Flask, FastAPI, Python/Pandas, .NET 5.0, Plaid API, wit.ai API, gRPC, Postgres, MongoDB, AWS RDS, Azure EventHub, Heroku
 - 🌱 I’m currently learning on Event Driven Architecture, Spanish (Duolingo)
 - 📻 I’m currently listening **Think Like a Rocket Scientist** by Ozan Varol
 - 📝 I’m currently teaching HTML, Bootstrap, Python/Flask, PostgreSQL
