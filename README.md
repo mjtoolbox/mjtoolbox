@@ -1,13 +1,13 @@
 [![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this week is: Red Dead Redemption 2
+- 🔑 Keyword for this week is: Fall
 - 🔭 I’m currently working on Cloud Data Warehouse project - architecting Application telemetry (AppInsights) Analytics, Azure Machine Learning and Cloud Migration 2.0 program at **WorkSafeBC**
 - 💻 I’m currently doing a side project on **Smart Expense V2** (private repo) - Hapi (Nodejs), Flask, FastAPI, Python/Pandas, .NET 5.0, Plaid API, wit.ai API, gRPC, Postgres, MongoDB, AWS RDS, Azure EventHub, Heroku
 - 🌱 I’m currently learning on Event Driven Architecture, Spanish (Duolingo)
 - 📻 I’m currently listening **Think Like a Rocket Scientist** by Ozan Varol
 - 📝 I’m currently teaching HTML, Bootstrap, Python/Flask, PostgreSQL
-- 🎆 I’m currently collaborating on **IoT project** (laundry stop notification system) with my son
+- 🎆 I’m currently collaborating on x
 - ⚡ Fun fact: practicing Yoga and looking forward to going back Kumdo/Kendo practice
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjtoolbox&theme=dark" />
