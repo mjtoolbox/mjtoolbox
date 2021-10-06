@@ -10,7 +10,9 @@
 - 🎆 I’m currently collaborating on x
 - ⚡ Fun fact: practicing Yoga and looking forward to going back Kumdo/Kendo practice
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjtoolbox&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjtoolbox&theme=dracula" />
+
 
 ## Technlogy & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
