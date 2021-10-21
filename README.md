@@ -10,7 +10,7 @@
 - 🎆 I’m currently collaborating on x
 - ⚡ Fun fact: practicing Yoga and Kumdo/Kendo practice
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&langs_count=10"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&langs_count=10&hide=html"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjtoolbox&theme=dracula" />
 
 
