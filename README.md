@@ -1,11 +1,11 @@
 [![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this month is: Rain
-- 🔭 I’m currently working on Cloud Data Warehouse project - flat file ingestion using Data Factory and Data Lake, Azure Machine Learning and Cloud Migration 2.0 program at **WorkSafeBC**
-- 💻 I’m currently doing a side project on **Smart Expense V2** (private repo) - Hapi (Nodejs), Flask, FastAPI, Python/Pandas, .NET 5.0, Plaid API, wit.ai API, gRPC, Postgres, MongoDB, AWS RDS, Azure EventHub, Heroku
-- 🌱 I’m currently learning on Event Driven Architecture, Spanish (Duolingo)
-- 📻 I’m currently listening **AI 2041** by Chen Qiufan
+- 🔑 Keyword for this month is: One Small Step
+- 🔭 I’m currently working on Cloud Migration program at **WorkSafeBC**
+- 💻 I’m currently doing a side project designing Personal Logging System
+- 🌱 I’m currently learning on Web3, Spanish (Duolingo)
+- 📻 I’m currently listening **5 Second rule** by Mel Robbins
 - 📝 I’m currently teaching Python/Flask, PostgreSQL
 - 🎆 I’m currently collaborating on x
 - ⚡ Fun fact: practicing Yoga and Kumdo practice
