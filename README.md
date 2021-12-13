@@ -1,11 +1,11 @@
 [![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this month is: The 5 AM club
+- 🔑 Keyword for this month is: MUI DataGrid ouch
 - 🔭 I’m currently working on Cloud Migration program at **WorkSafeBC**
 - 💻 I’m currently doing a side project designing Personal Logging System
 - 🌱 I’m currently learning on Web3, Spanish (Duolingo)
-- 📻 I’m currently listening **Thinking in Systems** by Donella Meadows
+- 📻 I’m currently listening **Algorithms to live by** by Brian Christian and Tom Griffiths
 - 📝 I’m currently teaching Python/Flask, PostgreSQL
 - 🎆 I’m currently collaborating on x
 - ⚡ Fun fact: practicing Yoga and Kumdo practice
