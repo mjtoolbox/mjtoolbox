@@ -1,12 +1,12 @@
 [![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this month is: MUI DataGrid ouch
-- 🔭 I’m currently working on Cloud Migration program at **WorkSafeBC**
-- 💻 I’m currently doing a side project designing Personal Logging System
-- 🌱 I’m currently learning on Web3, Spanish (Duolingo)
-- 📻 I’m currently listening **Algorithms to live by** by Brian Christian and Tom Griffiths
-- 📝 I’m currently teaching Python/Flask, PostgreSQL
+- 🔑 Keyword for this month is: SPA
+- 🔭 I’m currently working on Cloud Data Warehouse & ML at **WorkSafeBC**
+- 💻 I’m currently doing a side project SmartSmallStep
+- 🌱 I’m currently learning on ML, Spanish (Duolingo)
+- 📻 I’m currently listening **Crypto asset investing in the age of autonomy** by Jack Ryan
+- 📝 I’m currently teaching Python/FastAPI, ReactJS
 - 🎆 I’m currently collaborating on x
 - ⚡ Fun fact: practicing Yoga and Kumdo practice
 
