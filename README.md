@@ -6,7 +6,7 @@
 - 💻 I’m currently doing a side project SmartSmallStep
 - 🌱 I’m currently learning on ML, Spanish (Duolingo)
 - 📻 I’m currently listening **Crypto asset investing in the age of autonomy** by Jack Ryan
-- 📝 I’m currently teaching Python/FastAPI, ReactJS
+- 📝 I’m currently teaching Python/FastAPI, ReactJS | SmartSmallStep.com
 - 🎆 I’m currently collaborating on x
 - ⚡ Fun fact: practicing Yoga and Kumdo practice
 
