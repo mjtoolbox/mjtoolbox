@@ -1,11 +1,11 @@
-[![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg3.png "Header")](https://mjtoolbox.wordpress.com/)
+[![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg1.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this month is: Voice User Interface
-- 🔭 I’m currently working on Claims DevOps POD as a solution architect at **WorkSafeBC**
-- 💻 I’m currently doing a side project Personal Logger
-- 🌱 I’m currently learning on ML, Spanish (Duolingo)
-- 📻 I’m currently listening **Will** by Will Smith
+- 🔑 Keyword for this month is: Serverless
+- 🔭 I’m currently working on Claims DevOps PODs as a solution architect at **WorkSafeBC**
+- 💻 I’m currently doing a side project Tracker
+- 🌱 I’m currently learning on OpenCV, Spanish (Duolingo)
+- 📻 I’m currently listening **The Changing World Order** by Ray Dalio
 - 📝 I’m currently teaching Python/FastAPI, ReactJS, OpenCV | SmartSmallStep.com
 - 🎆 I’m currently collaborating on x
 - ⚡ Fun fact: practicing Yoga and Kumdo practice
