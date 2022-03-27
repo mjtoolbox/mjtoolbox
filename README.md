@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Claims DevOps PODs as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project Tracker
 - 🌱 I’m currently learning on OpenCV, Spanish (Duolingo)
-- 📻 I’m currently listening **The Changing World Order** by Ray Dalio
+- 📻 I’m currently listening **Greenlight** by Matthew McConaughey
 - 📝 I’m currently teaching Python/FastAPI, ReactJS, OpenCV | SmartSmallStep.com
 - 🎆 I’m currently collaborating on x
 - ⚡ Fun fact: practicing Yoga and Kumdo practice
