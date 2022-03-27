@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Frame-React-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frame-ReactNative-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frame-Flask-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frame-FastAPI-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logoColor=white&color=2bbc8a)
