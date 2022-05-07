@@ -2,12 +2,12 @@
 
 ### Hi there 👋
 - 🔑 Keyword for this month is: Serverless
-- 🔭 I’m currently working on Claims DevOps PODs as a solution architect at **WorkSafeBC**
+- 🔭 I’m currently working on Claims & Rehabilitation as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project Tracker
-- 🌱 I’m currently learning on OpenCV, Spanish (Duolingo)
-- 📻 I’m currently listening **The Hourse of Wisdom** by Jimal-Khalili
+- 🌱 I’m currently learning on Spanish (Duolingo)
+- 📻 I’m currently reading **Awakening The Buddah Within** by Surya Das
 - 📝 I’m currently teaching Python/FastAPI, ReactJS, OpenCV | SmartSmallStep.com
-- 🎆 I’m currently collaborating on x
+- 🎆 I’m not currently collaborating on any project.
 - ⚡ Fun fact: practicing Yoga and Kumdo practice
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&langs_count=10&hide=html"/>
