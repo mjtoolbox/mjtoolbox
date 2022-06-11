@@ -1,7 +1,7 @@
 [![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this month is: Serverless
+- 🔑 Keyword for this month is: No code platform
 - 🔭 I’m currently working on Claims & Rehabilitation as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project Tracker
 - 🌱 I’m currently learning on Spanish (Duolingo)
