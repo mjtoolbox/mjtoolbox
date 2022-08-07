@@ -1,13 +1,13 @@
 [![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this month is: OCR
+- 🔑 Keyword for this month is: Tello drone
 - 🔭 I’m currently working on Claims & Rehabilitation as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project Tracker
 - 🌱 I’m currently learning on Spanish (Duolingo)
 - 📻 I’m currently reading **Awakening The Buddah Within** by Surya Das
 - 📝 I’m currently teaching Python/FastAPI, ReactJS, OpenCV | SmartSmallStep.com
-- 🎆 I’m not currently collaborating on any project.
+- 🎆 I’m currently collaborating tello drone project.
 - ⚡ Fun fact: practicing Yoga and Kumdo practice
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&langs_count=10&hide=html"/>
