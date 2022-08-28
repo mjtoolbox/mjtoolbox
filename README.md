@@ -2,10 +2,11 @@
 
 ### Hi there 👋
 - 🔑 Keyword for this month is: Tello drone
-- 🔭 I’m currently working on Claims & Rehabilitation as a solution architect at **WorkSafeBC**
-- 💻 I’m currently doing a side project Tracker
+- 🔭 I’m currently working on Claims & Rehabilitation area as a solution architect at **WorkSafeBC**
+- 💻 I’m currently doing a side project Tracker & Heroku PostgreSQL migration
 - 🌱 I’m currently learning on Spanish (Duolingo)
 - 📻 I’m currently reading **Awakening The Buddah Within** by Surya Das
+- 👋 I’m currently listening The Lessons of History by Will, Ariel Durant
 - 📝 I’m currently teaching Python/FastAPI, ReactJS, OpenCV | SmartSmallStep.com
 - 🎆 I’m currently collaborating tello drone project.
 - ⚡ Fun fact: practicing Yoga and Kumdo practice
