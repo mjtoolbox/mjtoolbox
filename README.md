@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning on Spanish (Duolingo)
 - 📻 I’m currently reading **Awakening The Buddah Within** by Surya Das
 - 👋 I’m currently listening Your Best Brain by John J. Medina
-- 📝 I’m currently teaching Python/FastAPI, ReactJS, OpenCV | SmartSmallStep.com
+- 📝 I’m currently teaching Python/FastAPI, ReactJS, OpenCV | [SmartSmallStep.com](https://www.smartsmallstep.com/)
 - 🎆 I’m currently collaborating tello drone project.
 - ⚡ Fun fact: practicing Yoga and Kendo practice
 
