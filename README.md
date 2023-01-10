@@ -1,10 +1,10 @@
 [![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this month is: Reflection & planning 2023
+- 🔑 Keyword for this month is: Machine Learning
 - 🔭 I’m currently working on Claims & Rehabilitation area as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project updating Smart Expense v4
-- 🌱 I’m currently learning on Spanish (Duolingo)
+- 🌱 I’m currently learning on Grokking Machine Learning, Spanish (Duolingo)
 - 📻 I’m currently reading A guide to Taoist Yoga & Chi Kung by Eric Yudelove
 - 👋 I’m currently listening The 40 laws of power by Robert Greene
 - 📝 I’m currently teaching Java, Python/FastAPI | [SmartSmallStep.com](https://www.smartsmallstep.com/)
