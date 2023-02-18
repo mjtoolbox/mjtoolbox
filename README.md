@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Claims & Rehabilitation area as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project updating Smart Expense v4
 - 🌱 I’m currently learning on Grokking Machine Learning, Spanish (Duolingo)
-- 📻 I’m currently reading A guide to Taoist Yoga & Chi Kung by Eric Yudelove
-- 👋 I’m currently listening The 40 laws of power by Robert Greene
+- 📻 I’m currently reading Grokking Machine Learning Andrew W. Trask
+- 👋 I’m currently listening Range by David Epstein
 - 📝 I’m currently teaching Java, Python/FastAPI | [SmartSmallStep.com](https://www.smartsmallstep.com/)
 - 🎆 I’m currently collaborating Adafruit Circuit Playground Express development with my son.
 - ⚡ Fun fact: practicing Yoga and Kendo practice
