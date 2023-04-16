@@ -1,14 +1,14 @@
 [![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
-- 🔑 Keyword for this month is: Machine Learning
+- 🔑 Keyword for this month is: Nextjs
 - 🔭 I’m currently working on Claims & Rehabilitation area as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project updating Smart Expense v4
-- 🌱 I’m currently learning on Grokking Machine Learning, Spanish (Duolingo)
-- 📻 I’m currently reading Grokking Machine Learning Andrew W. Trask
-- 👋 I’m currently listening Range by David Epstein
-- 📝 I’m currently teaching Java, Python/FastAPI | [SmartSmallStep.com](https://www.smartsmallstep.com/)
-- 🎆 I’m currently collaborating Adafruit Circuit Playground Express development with my son.
+- 🌱 I’m currently learning on Nextjs, Spanish (Duolingo)
+- 📻 I’m currently reading Elite Minds by Stan Beecham
+- 👋 I’m currently listening The Story Telling Animal by Jonathan Gottschail
+- 📝 I’m currently teaching Java, Python Flask | [SmartSmallStep.com](https://www.smartsmallstep.com/)
+- 🎆 I’m currently not collaborating any extra project.
 - ⚡ Fun fact: practicing Yoga and Kendo practice
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&langs_count=10&hide=html"/>
