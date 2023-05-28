@@ -1,14 +1,14 @@
-[![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg2.png "Header")](https://mjtoolbox.wordpress.com/)
+[![Header](https://github.com/mjtoolbox/mjtoolbox/blob/main/githubimg4.png "Header")](https://mjtoolbox.wordpress.com/)
 
 ### Hi there 👋
 - 🔑 Keyword for this month is: Nextjs
 - 🔭 I’m currently working on Claims & Rehabilitation area as a solution architect at **WorkSafeBC**
-- 💻 I’m currently doing a side project updating Smart Expense v4
-- 🌱 I’m currently learning on Nextjs, Spanish (Duolingo)
-- 📻 I’m currently reading Elite Minds by Stan Beecham
-- 👋 I’m currently listening The Story Telling Animal by Jonathan Gottschail
-- 📝 I’m currently teaching Java, Python Flask | [SmartSmallStep.com](https://www.smartsmallstep.com/)
-- 🎆 I’m currently not collaborating any extra project.
+- 💻 I’m currently doing a side project updating Smart Expense v4 and Century Kendo website
+- 🌱 I’m currently learning on Nextjs, Daisy UI, Spanish (Duolingo)
+- 📻 I’m currently reading Boost Your Brain by Majid Fotuhi
+- 👋 I’m currently listening Influence by Robert Cialdini
+- 📝 I’m currently teaching Python Flask | [SmartSmallStep.com](https://www.smartsmallstep.com/)
+- 🎆 I’m currently collaborating Century Kendo site project
 - ⚡ Fun fact: practicing Yoga and Kendo practice
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&langs_count=10&hide=html"/>
