@@ -6,7 +6,7 @@
 - 💻 I’m currently doing a side project updating Smart Expense v4 and Century Kendo website
 - 🌱 I’m currently learning on Nextjs, Daisy UI, Spanish (Duolingo)
 - 📻 I’m currently reading Boost Your Brain by Majid Fotuhi
-- 👋 I’m currently listening Influence by Robert Cialdini
+- 👋 I’m currently listening The God Delusion by Richard Dawkins
 - 📝 I’m currently teaching Python Flask | [SmartSmallStep.com](https://www.smartsmallstep.com/)
 - 🎆 I’m currently collaborating Century Kendo site project
 - ⚡ Fun fact: practicing Yoga and Kendo practice
