@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Claims & Rehabilitation area as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project updating Smart Expense v4 and Century Kendo website
 - 🌱 I’m currently learning on Nextjs, Daisy UI, Spanish (Duolingo)
-- 📻 I’m currently reading Boost Your Brain by Majid Fotuhi
-- 👋 I’m currently listening The God Delusion by Richard Dawkins
+- 📻 I’m currently reading Map Maker's Wife by Robert Whitaker
+- 👋 I’m currently listening Whole Brain Living by Jill Bolte Taylor
 - 📝 I’m currently teaching Python Flask | [SmartSmallStep.com](https://www.smartsmallstep.com/)
 - 🎆 I’m currently collaborating Century Kendo site project
 - ⚡ Fun fact: practicing Yoga and Kendo practice
