@@ -4,11 +4,11 @@
 - 🔑 Keyword for this month is: Nextjs
 - 🔭 I’m currently working on Claims & Rehabilitation area as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project updating Smart Expense v4 and Century Kendo website
-- 🌱 I’m currently learning on Nextjs, Daisy UI, Spanish (Duolingo)
+- 🌱 I’m currently learning on Langchain, LLM, Nextjs, Spanish (Duolingo)
 - 📻 I’m currently reading Map Maker's Wife by Robert Whitaker
-- 👋 I’m currently listening Whole Brain Living by Jill Bolte Taylor
+- 👋 I’m currently listening Supernatural by Graham Hancock
 - 📝 I’m currently teaching Python Flask | [SmartSmallStep.com](https://www.smartsmallstep.com/)
-- 🎆 I’m currently collaborating Century Kendo site project
+- 🎆 I’m currently collaborating Century Kendo site project | [CenturyKumdo.com](https://www.centurykumdo.com/)
 - ⚡ Fun fact: practicing Yoga and Kendo practice
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&langs_count=10&hide=html"/>
