@@ -3,11 +3,10 @@
 ### Hi there 👋
 - 🔑 Keyword for this month is: Productivity
 - 🔭 I’m currently working on Claims & Rehabilitation area as a solution architect at **WorkSafeBC**
-- 💻 I’m currently doing a side project updating Smart Expense v4 and Century Kendo website
-- 🌱 I’m currently learning on Langchain, LLM, Nextjs, Spanish (Duolingo)
+- 💻 I’m currently doing a side project updating Smart Expense v5 (agentic ai) and Century Kendo website
+- 🌱 I’m currently learning on Agentic AI framework Spanish (Duolingo)
 - 📻 I’m currently reading Anatomy of the spirit by Caroline Myss
 - 👋 I’m currently listening The Art of Thinking Clearly by Rolf Dobelli
-- 📝 I’m currently teaching Python Flask | [SmartSmallStep.com](https://www.smartsmallstep.com/)
 - 🎆 I’m currently collaborating Century Kendo site project | [CenturyKumdo.com](https://www.centurykumdo.com/)
 - ⚡ Fun fact: practicing Yoga and Kendo practice
 
