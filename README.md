@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 - 🔑 Keyword for this month is: Productivity
-- 🔭 I’m currently working on Claims & Rehabilitation area as a solution architect at **WorkSafeBC**
+- 🔭 I’m currently working on Claims & Rehabilitation Online Service as a solution architect at **WorkSafeBC**
 - 💻 I’m currently doing a side project updating Smart Expense v5 (agentic ai)
-- 🌱 I’m currently learning on Agentic AI framework, Spanish (Duolingo), and Archery using recurve bow
-- 📻 I’m currently reading Anatomy of the spirit by Caroline Myss
-- 👋 I’m currently listening The Final Frontiersman by James Campbell
+- 🌱 I’m currently learning on CrewAI and n8n, Spanish (Duolingo), and recurve bow archery
+- 📻 I’m currently reading New Diary by Tristine Rainer
+- 👋 I’m currently listening The Singularity is nearer by Ray Kurtzweil
 - 🎆 I’m currently collaborating Century Kendo site project | [CenturyKumdo.com](https://www.centurykumdo.com/)
-- ⚡ Fun fact: practicing Yoga and Kendo practice
+- ⚡ Fun fact: practicing Yoga, Kendo, Archery
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&langs_count=10&hide=html"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjtoolbox&theme=dracula" />
