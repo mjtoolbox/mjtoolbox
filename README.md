@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🔑 Keyword for this month is: Productivity
 - 🔭 I’m currently working on Claims & Rehabilitation Online Service as a solution architect at **WorkSafeBC**
-- 💻 I’m currently doing side projects updating Smart Expense v5.
+- 💻 I’m currently doing side projects updating Smart Expense v5 and Quantum-self.
 - 🌱 I’m currently learning on Context Engineering, CrewAI, n8n, and Spanish (Duolingo).
 - 📻 I’m currently reading New Diary by Tristine Rainer
 - 👋 I’m currently listening Nexus: A Brief History of Information Networks from the Stone Age to AI by Yuval Noah Harari
