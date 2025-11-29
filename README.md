@@ -10,9 +10,6 @@
 - 🎆 I’m currently collaborating Renvest FinOps project | https://renvestment-mvp2.vercel.app/
 - ⚡ Fun fact: practicing Yoga, Kendo, Archery
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtoolbox&langs_count=10&hide=html"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjtoolbox&theme=dracula" />
-
 
 ## Technlogy & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
